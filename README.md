@@ -15,7 +15,7 @@
 
 | Dashboard Home | User Management | Settings Panel | Dark Mode |
 |----------------|------------------|----------------|-----------|
-| ![Dashboard Screenshot](./public/screenshots/dashboard1.png) | ![Users Screenshot](./public/screenshots/dashboard2.png) | ![Settings Screenshot](./public/screenshots/dashboard3.png) | ![Dark Mode Screenshot](./public/screenshots/dashboard4.png) |
+| ![Dashboard Screenshot](./src/rt.jpg) | ![Users Screenshot](./src/vib.jpg) | ![Settings Screenshot](./src.vii.jpg) | ![Dark Mode Screenshot](./src/yu.jpg) |
 
 > _Replace the placeholder images in `./public/screenshots/` with your own screenshots._
 
