@@ -1,7 +1,7 @@
 # 🧠 Deen Admin Dashboard (Next.js)
 
 [![Next.js](https://img.shields.io/badge/Built%20With-Next.js-000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/Language-Javascript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Styled%20With-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![MIT License](https://img.shields.io/github/license/DeenRamah/deen-admin-js?style=for-the-badge)](LICENSE)
 
